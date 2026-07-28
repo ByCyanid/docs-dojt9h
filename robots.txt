@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-xn6isd.assetshst.online/sitemap.xml
